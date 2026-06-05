@@ -1,0 +1,8 @@
+C:\Atlas_Yazilim_TestCase\AgentAI\obj\Debug\net8.0\AgentAI.csproj.AssemblyReference.cache
+C:\Atlas_Yazilim_TestCase\AgentAI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Atlas_Yazilim_TestCase\AgentAI\obj\Debug\net8.0\AgentAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Atlas_Yazilim_TestCase\AgentAI\obj\Debug\net8.0\AgentAI.AssemblyInfoInputs.cache
+C:\Atlas_Yazilim_TestCase\AgentAI\obj\Debug\net8.0\AgentAI.AssemblyInfo.cs
+C:\Atlas_Yazilim_TestCase\AgentAI\obj\Debug\net8.0\AgentAI.csproj.CoreCompileInputs.cache
+C:\Atlas_Yazilim_TestCase\AgentAI\obj\Debug\net8.0\AgentAI.MvcApplicationPartsAssemblyInfo.cs
+C:\Atlas_Yazilim_TestCase\AgentAI\obj\Debug\net8.0\AgentAI.MvcApplicationPartsAssemblyInfo.cache
