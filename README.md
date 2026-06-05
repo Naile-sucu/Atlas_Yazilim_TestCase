@@ -12,7 +12,7 @@ Yanıtlar
 4.	Yapay zeka; Chatgpt istek başına ücretli olduğu için Gemini’yi tercih etmek daha mantıklı . Local çalışmak diye bahsedilen özelleştirmek ise; McpToollar ile functionları oluşturup, kolayca özelleştirebilirsiniz. Promptu da talebe göre özelleştirmek mümkün. Claude, Chatgpt ve Geminiye kolayca  da entegre edilebilir.
 5.	Test Süreci;
 •	Command’e -> dotnet run yazılması yeterli yada startup project seçiliyse; F5 ile çalıştırabilirsiniz.
-•	Proje de swagger yapılandırması yapılmışsa ; Swagger ile test edilebilir. 
+•	Proje de swagger yapılandırması yapılmışsa ; Swagger ile test edilebilir.Postman ile de test edebiliriz.
 
 
 
